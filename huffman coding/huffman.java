@@ -1,4 +1,7 @@
-// Create a C program that implements the Huffman coding algorithm to compress a set of binary strings. The program should use a Binary Trie data structure to construct a Huffman tree based on the frequency of the binary strings. Users should be able to input binary strings, encode them using the Huffman tree, and decode the encoded data back to the original binary strings. This project will demonstrate the practical use of data structures in creating efficient compression algorithms.
+// Create a C program that implements the Huffman coding algorithm to compress a set of binary strings. The program should use a Binary Trie 
+//data structure to construct a Huffman tree based on the frequency of the binary strings. Users should be able to input binary strings,encode
+// them using the Huffman tree, and decode the encoded data back to the original binary strings. This project will demonstrate the 
+//practicaluse of data structures in creating efficient compression algorithms.
 
 
 import java.util.ArrayList;
